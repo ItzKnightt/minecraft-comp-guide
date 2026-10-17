@@ -9,19 +9,20 @@ nav_order: 4
 
 ## Better Hitreg
 
-Client-side mod that registers hits before the server confirms them,
-making it feel like you have low ping.
+Client side mod that registers hits before the server, making it feel as
+if you were low ping.
 
 ## Quantum Bot (Map)
 
-A Bedwars PvP practice map, used together with the HeroBot mod.
+Used with the HeroBot mod.
 
 **HeroBot** (on [Modrinth](https://modrinth.com/project/wt23fpWX)) is a
-framework for Fabric-based server-side bot players, made so datapack makers
-can build bots that actually fight back. Its bots behave much closer to a
-vanilla client than the older Carpet mod does — Auto-Jump and the spear work.
+framework for fabric based server side players (and extra helpful
+settings). It's made for datapack makers to make bots that can fight back,
+and its bots have much higher parity with a vanilla client compared to
+carpet — Auto-Jump and the spear work.
 
-- Bots are spawned with `/playerspawn` and controlled with `/player`
-- Settings are changed with `/herobot <setting> <value>` (temporary) or
-  `/herobot <setting> <value> <perm>` (permanent)
-- Note: incompatible with Carpet Mod / Carpet PVP — use one or the other
+- Spawn bots with `/playerspawn`, control them with `/player`
+- `/herobot <setting> <value>` — set a setting temporarily
+- `/herobot <setting> <value> <perm>` — set it permanently
+- Incompatible with Carpet Mod / Carpet PVP — use one or the other

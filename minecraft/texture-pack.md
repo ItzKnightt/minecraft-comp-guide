@@ -7,6 +7,4 @@ nav_order: 3
 
 # Texture Pack
 
-Recommended pack (video showcase):
-
-<https://www.youtube.com/watch?v=P-zZNhVxgro>
+Recommended texture pack: <https://www.youtube.com/watch?v=P-zZNhVxgro>
