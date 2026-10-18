@@ -31,8 +31,8 @@ target size — pick one and never change it mid-practice.
 ## Controls
 
 - Mouse smoothing off, raw input on where the mod/option exists.
-- Sensitivity fixed and written down (see [Mouse Settings](mouse-settings.html)).
-- Hotbar reachable keys — see [Keybinds](keybinds.html).
+- Sensitivity fixed and written down (see [Mouse Settings](../controls/mouse-settings.html)).
+- Hotbar reachable keys — see [Keybinds](../controls/keybinds.html).
 
 ## Network / game rules
 

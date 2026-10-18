@@ -22,7 +22,7 @@ works for Minecraft; mice and aim are far more personal).
 - **Polling rate:** 1000 Hz is fine. 4K/8K Hz is not worth it for Minecraft —
   the gains are marginal and it eats CPU headroom your FPS wants.
 - **Buttons:** at least two thumb buttons for hotbar swapping / drop-item
-  binds (see [Keybinds](keybinds.html)).
+  binds (see [Keybinds](../controls/keybinds.html)).
 
 ## Mousepad
 
