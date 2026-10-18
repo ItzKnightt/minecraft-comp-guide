@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Topic Name
+nav_order: 2
 ---
 
 # Topic Name
