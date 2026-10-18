@@ -4,8 +4,6 @@ title: Home
 nav_order: 1
 ---
 
-# Minecraft Guide
-
-Setup and performance for modded Minecraft PvP.
+# Game Guide
 
 Pick a topic from the sidebar to get started.
