@@ -1,42 +1,42 @@
-// GitHub-inspired color scheme (Primer light palette)
-// Overrides just-the-docs defaults; anything unset falls back to the default light scheme.
+// GitHub dark color scheme (Primer dark palette)
+// Overrides just-the-docs defaults; anything unset falls back to the theme's dark defaults.
 
 $body-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
 
 // Page
-$body-background-color: #ffffff;
-$body-text-color: #1f2328;
-$body-heading-color: #1f2328;
-$body-muted-text-color: #59636e;
+$body-background-color: #0d1117;
+$body-text-color: #e6edf3;
+$body-heading-color: #e6edf3;
+$body-muted-text-color: #8b949e;
 
-// Sidebar (GitHub UI: white panel with gray border)
-$sidebar-color: #ffffff;
-$border-color: #d0d7de;
-$nav-child-link-color: #59636e;
+// Sidebar (GitHub dark UI: dark panel, subtle borders)
+$sidebar-color: #0d1117;
+$border-color: #30363d;
+$nav-child-link-color: #8b949e;
 
-// Links (GitHub blue)
-$link-color: #0969da;
-$link-visited-color: #8250df;
+// Links (GitHub dark blue)
+$link-color: #58a6ff;
+$link-visited-color: #a371f7;
 
-// Code blocks (GitHub gray well)
-$code-background-color: #f6f8fa;
-$code-linenumber-color: #818b98;
+// Code blocks (GitHub dark well)
+$code-background-color: #161b22;
+$code-linenumber-color: #6e7681;
 
 // Tables
-$table-border-color: #d0d7de;
+$table-border-color: #30363d;
 
-// Buttons (GitHub green primary, gray secondary)
-$base-button-color: #f6f8fa;
-$btn-primary-color: #1f883d;
-$btn-primary-hover-color: #1a7f37;
+// Buttons (GitHub dark green primary, gray secondary)
+$base-button-color: #21262d;
+$btn-primary-color: #238636;
+$btn-primary-hover-color: #2ea043;
 
 // Search
-$search-background-color: #f6f8fa;
-$search-border-color: #d0d7de;
-$search-result-preview-color: #59636e;
+$search-background-color: #0d1117;
+$search-border-color: #30363d;
+$search-result-preview-color: #8b949e;
 
-// Blockquote / info accent (GitHub blue tint)
-$feedback-color: #ddf4ff;
+// Blockquote / info accent (GitHub dark blue tint)
+$feedback-color: #121d2f;
 
 // Focus ring
-$focus-outline-color: #0969da;
+$focus-outline-color: #58a6ff;
