@@ -3,6 +3,7 @@ layout: default
 title: Minecraft Modifications
 nav_order: 3
 has_children: true
+permalink: /modifications/
 ---
 
 # Minecraft Modifications

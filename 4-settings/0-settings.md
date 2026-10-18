@@ -3,6 +3,7 @@ layout: default
 title: Game Settings
 nav_order: 4
 has_children: true
+permalink: /settings/
 ---
 
 # Game Settings

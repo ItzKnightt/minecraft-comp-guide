@@ -3,6 +3,7 @@ layout: default
 title: Speedrunning
 parent: Game Settings
 nav_order: 2
+permalink: /settings/speedrunning.html
 ---
 
 # Speedrunning

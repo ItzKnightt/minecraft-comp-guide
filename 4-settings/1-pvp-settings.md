@@ -3,6 +3,7 @@ layout: default
 title: PvP Settings
 parent: Game Settings
 nav_order: 1
+permalink: /settings/pvp-settings.html
 ---
 
 # PvP Settings

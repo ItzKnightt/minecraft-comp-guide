@@ -3,6 +3,7 @@ layout: default
 title: Modpacks
 parent: Minecraft Modifications
 nav_order: 2
+permalink: /modifications/modpacks.html
 ---
 
 # Modpacks

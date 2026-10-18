@@ -2,6 +2,7 @@
 layout: default
 title: Getting Into PvP
 nav_order: 6
+permalink: /pvp/
 ---
 
 # Getting Into PvP

@@ -3,6 +3,7 @@ layout: default
 title: Mouse Settings
 parent: Controls & Sensitivity
 nav_order: 2
+permalink: /controls/mouse-settings.html
 ---
 
 # Mouse Settings

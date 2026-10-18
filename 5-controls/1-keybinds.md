@@ -3,6 +3,7 @@ layout: default
 title: Keybinds
 parent: Controls & Sensitivity
 nav_order: 1
+permalink: /controls/keybinds.html
 ---
 
 # Keybinds

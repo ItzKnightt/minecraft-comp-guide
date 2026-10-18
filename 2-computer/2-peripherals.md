@@ -3,6 +3,7 @@ layout: default
 title: Mouse, Mousepad & Keyboard
 parent: Computer & Peripherals
 nav_order: 2
+permalink: /computer/peripherals.html
 ---
 
 # Mouse, Mousepad & Keyboard

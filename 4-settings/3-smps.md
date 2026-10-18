@@ -3,6 +3,7 @@ layout: default
 title: SMPs
 parent: Game Settings
 nav_order: 3
+permalink: /settings/smps.html
 ---
 
 # SMPs

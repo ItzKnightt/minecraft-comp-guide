@@ -3,6 +3,7 @@ layout: default
 title: Monitor
 parent: Computer & Peripherals
 nav_order: 3
+permalink: /computer/monitor.html
 ---
 
 # Monitor

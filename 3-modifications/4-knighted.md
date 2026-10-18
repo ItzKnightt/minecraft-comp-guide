@@ -3,6 +3,7 @@ layout: default
 title: Knighted
 parent: Minecraft Modifications
 nav_order: 4
+permalink: /modifications/knighted.html
 ---
 
 # Knighted

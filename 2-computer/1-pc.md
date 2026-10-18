@@ -3,6 +3,7 @@ layout: default
 title: PC
 parent: Computer & Peripherals
 nav_order: 1
+permalink: /computer/pc.html
 ---
 
 # PC

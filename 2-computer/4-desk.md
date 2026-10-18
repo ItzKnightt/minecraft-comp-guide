@@ -3,6 +3,7 @@ layout: default
 title: Desk
 parent: Computer & Peripherals
 nav_order: 4
+permalink: /computer/desk.html
 ---
 
 # Desk

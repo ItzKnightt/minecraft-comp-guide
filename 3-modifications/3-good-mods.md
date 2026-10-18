@@ -3,6 +3,7 @@ layout: default
 title: Good Mods to Add
 parent: Minecraft Modifications
 nav_order: 3
+permalink: /modifications/good-mods.html
 ---
 
 # Good Mods to Add

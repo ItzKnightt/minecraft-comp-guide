@@ -3,6 +3,7 @@ layout: default
 title: Mod Launchers
 parent: Minecraft Modifications
 nav_order: 1
+permalink: /modifications/launchers.html
 ---
 
 # Mod Launchers

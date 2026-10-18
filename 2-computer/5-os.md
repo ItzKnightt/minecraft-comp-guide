@@ -3,6 +3,7 @@ layout: default
 title: Operating System
 parent: Computer & Peripherals
 nav_order: 5
+permalink: /computer/os.html
 ---
 
 # Operating System
