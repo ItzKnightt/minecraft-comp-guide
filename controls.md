@@ -7,8 +7,13 @@ has_children: true
 
 # Controls & Sensitivity
 
-Input — the keys you press and the way your mouse moves. This is the most
-personal part of the setup, and the one where consistency beats theory.
+Keybinds are required for most players. Scroll wheel is inconsistent and slow 
+which is why all good players use them. It is important to know with keybinds
+and mouse settings that consistency always wins over speed 
+
+Speed refers to how fast you can do the action not the sensitivity of the mouse
+without regarding consisency. This references Crystal PvP where high sensitivity 
+could be a advantage.
 
 ## In this section
 

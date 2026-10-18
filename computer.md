@@ -7,14 +7,14 @@ has_children: true
 
 # Computer & Peripherals
 
-Your hardware sets the ceiling on how good you can feel in game. A stable
-300 FPS on a fast monitor with a responsive mouse is worth more than any
-mod tweak. This section covers the machine and everything you touch.
+Your hardware sets the ceiling of how good you can be. Anything above 
+144hz and a good mouse can is worth more then any mod tweak.
+The section covers the computers and peripherals.
 
 ## In this section
 
-- **[PC](pc.html)** — what matters for stable FPS and frametimes
-- **[Mouse, Mousepad & Keyboard](peripherals.html)** — the parts you physically play with
-- **[Monitor](monitor.html)** — refresh rate, response, and what to actually buy
-- **[Desk](desk.html)** — a short side note on posture and desk space
-- **[Operating System](os.html)** — Windows vs Linux for modded Minecraft
+- **[Computer Recommendations](pc.html)**
+- **[Mouse, Mousepad & Keyboard](peripherals.html)**
+- **[Monitor](monitor.html)**
+- **[Desk](desk.html)**
+- **[Operating System](os.html)

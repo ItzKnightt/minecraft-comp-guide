@@ -1,4 +1,4 @@
-# Game Guide
+# Minecraft Competitive and Mods Guide
 
 Docs live at the GitHub Pages URL for this repo (Settings → Pages →
 "Deploy from branch" → main). Built with the `just-the-docs` theme —
