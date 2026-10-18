@@ -17,4 +17,4 @@ The section covers the computers and peripherals.
 - **[Mouse, Mousepad & Keyboard](peripherals.html)**
 - **[Monitor](monitor.html)**
 - **[Desk](desk.html)**
-- **[Operating System](os.html)
+- **[Operating System](os.html)**
