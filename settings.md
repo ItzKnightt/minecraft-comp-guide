@@ -13,4 +13,5 @@ them once in each Prism instance and stop touching them.
 ## In this section
 
 - **[PvP Settings](pvp-settings.html)** — visibility, feedback, and latency
+- **[Speedrunning](speedrunning.html)** — consistency and chunk speed
 - **[SMPs](smps.html)** — comfort and view distance for long sessions
